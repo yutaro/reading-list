@@ -1,4 +1,4 @@
-baseURL = "http://yutaro.github.io/reading-list/"
+baseURL = "https://yutaro.github.io/reading-list/"
 languageCode = "ja"
 defaultContentLanguage = "ja"
 title = "Reading list by yutaro"

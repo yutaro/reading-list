@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<?xml-stylesheet type="text/xsl" href="http://yutaro.github.io/reading-list/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://yutaro.github.io/reading-list/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yutaro.github.io/reading-list/post/hello/</loc>
+    <loc>https://yutaro.github.io/reading-list/post/hello/</loc>
     <lastmod>2017-10-30T12:23:58+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://yutaro.github.io/reading-list/categories/</loc>
+    <loc>https://yutaro.github.io/reading-list/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://yutaro.github.io/reading-list/post/</loc>
+    <loc>https://yutaro.github.io/reading-list/post/</loc>
     <lastmod>2017-10-30T12:23:58+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://yutaro.github.io/reading-list/</loc>
+    <loc>https://yutaro.github.io/reading-list/</loc>
     <lastmod>2017-10-30T12:23:58+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://yutaro.github.io/reading-list/tags/</loc>
+    <loc>https://yutaro.github.io/reading-list/tags/</loc>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
