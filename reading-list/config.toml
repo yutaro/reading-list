@@ -21,23 +21,29 @@ copyright = "yutaro"            # default: author.name ↓        # 默认为下
   filename = "sitemap.xml"
 
 [[menu.main]]             # config your menu              # 配置目录
-  name = "Home"
+  name = "List"
   weight = 10
-  identifier = "home"
+  identifier = "list"
   url = "/"
 [[menu.main]]
+  name = "Main"
+  width = 20
+  identifir = "main"
+  url = "https://yutaro.github.io/"
+
+[[menu.main]]
   name = "Archives"
-  weight = 20
+  weight = 30
   identifier = "archives"
   url = "/post/"
 [[menu.main]]
   name = "Tags"
-  weight = 30
+  weight = 40
   identifier = "tags"
   url = "/tags/"
 [[menu.main]]
   name = "Categories"
-  weight = 40
+  weight = 50
   identifier = "categories"
   url = "/categories/"
 
@@ -48,8 +54,8 @@ copyright = "yutaro"            # default: author.name ↓        # 默认为下
 
   # site info (option)                                    # 站点信息（可选）
   logoTitle = "Reading list"        # default: the title value    # 默认值: 上面设置的title值
-  keywords = ["Hugo", "theme","even"]
-  description = "Hugo theme even example site."
+  keywords = ["yutaro", "reading","book", "programing", "tech", "it"]
+  description = "read and write."
 
   # paginate of archives, tags and categories             # 归档、标签、分类每页显示的文章数目
   archive-paginate = 3
