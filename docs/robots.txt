@@ -1,2 +1,0 @@
-User-agent: *
-Sitemap: https://yutaro.github.io/reading-list/sitemap.xml
