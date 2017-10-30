@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Reading list by yutaro</title>
+    <link>https://yutaro.github.io/reading-list/post/</link>
+    <description>Recent content in Posts on Reading list by yutaro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>yutaro</copyright>
+    <lastBuildDate>Mon, 30 Oct 2017 13:52:35 +0900</lastBuildDate>
+    
+	<atom:link href="https://yutaro.github.io/reading-list/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wow</title>
+      <link>https://yutaro.github.io/reading-list/post/wow/</link>
+      <pubDate>Mon, 30 Oct 2017 13:52:35 +0900</pubDate>
+      
+      <guid>https://yutaro.github.io/reading-list/post/wow/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hello</title>
+      <link>https://yutaro.github.io/reading-list/post/hello/</link>
+      <pubDate>Mon, 30 Oct 2017 12:23:58 +0900</pubDate>
+      
+      <guid>https://yutaro.github.io/reading-list/post/hello/</guid>
+      <description> omg yeah!  aaa aaa aaa  package main import &amp;quot;fmt&amp;quot; func main(){ fmt.Println(&amp;quot;Hello world&amp;quot;) }  </description>
+    </item>
+    
+  </channel>
+</rss>
