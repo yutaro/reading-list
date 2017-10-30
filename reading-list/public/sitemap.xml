@@ -3,6 +3,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://yutaro.github.io/reading-list/post/wow/</loc>
+    <lastmod>2017-10-30T13:52:35+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://yutaro.github.io/reading-list/post/hello/</loc>
     <lastmod>2017-10-30T12:23:58+09:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -17,14 +24,14 @@
   
   <url>
     <loc>https://yutaro.github.io/reading-list/post/</loc>
-    <lastmod>2017-10-30T12:23:58+09:00</lastmod>
+    <lastmod>2017-10-30T13:52:35+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yutaro.github.io/reading-list/</loc>
-    <lastmod>2017-10-30T12:23:58+09:00</lastmod>
+    <lastmod>2017-10-30T13:52:35+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
