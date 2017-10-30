@@ -11,8 +11,8 @@ features = []
 min_version = "0.30.2"
 
 [author]
-  name = ""
-  homepage = ""
+  name = "yutaro"
+  homepage = "https://yutaro.github.io"
 
 # If porting an existing theme
 [original]
