@@ -1,2 +1,2 @@
 #! /bin/bash
-cp -rf ./* ../docs/
+cp -rf ./public/* ../docs/
