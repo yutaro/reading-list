@@ -21,14 +21,14 @@ copyright = "yutaro"            # default: author.name ↓        # 默认为下
   filename = "sitemap.xml"
 
 [[menu.main]]             # config your menu              # 配置目录
-  name = "List"
+  name = "Home"
   weight = 10
-  identifier = "list"
+  identifier = "Home"
   url = "/"
 [[menu.main]]
-  name = "Main"
+  name = "Portfolio"
   width = 20
-  identifir = "main"
+  identifir = "portfolio"
   url = "https://yutaro.github.io/"
 
 [[menu.main]]
