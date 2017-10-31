@@ -1,13 +1,13 @@
 ---
-title: "LearnCompiler"
+title: "コンパイラ作りながら学ぶ"
 date: 2017-10-30T15:18:18+09:00
 lastmod: 2017-10-30T15:18:18+09:00
 draft: true
 keywords: []
 description: ""
-tags: []
-categories: []
-author: ""
+tags: ["compiler", "clang" , "PL/0"]
+categories: ["compiler"]
+author: "yutaro"
 
 # you can close something for this content if you open it in config.toml.
 comment: false
