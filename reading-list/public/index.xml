@@ -7,27 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>yutaro</copyright>
-    <lastBuildDate>Mon, 30 Oct 2017 13:52:35 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 30 Oct 2017 15:18:18 +0900</lastBuildDate>
     
 	<atom:link href="https://yutaro.github.io/reading-list/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Wow</title>
-      <link>https://yutaro.github.io/reading-list/post/wow/</link>
-      <pubDate>Mon, 30 Oct 2017 13:52:35 +0900</pubDate>
+      <title>コンパイラ作りながら学ぶ</title>
+      <link>https://yutaro.github.io/reading-list/post/learncompiler/</link>
+      <pubDate>Mon, 30 Oct 2017 15:18:18 +0900</pubDate>
       
-      <guid>https://yutaro.github.io/reading-list/post/wow/</guid>
+      <guid>https://yutaro.github.io/reading-list/post/learncompiler/</guid>
       <description>&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Hello</title>
-      <link>https://yutaro.github.io/reading-list/post/hello/</link>
-      <pubDate>Mon, 30 Oct 2017 12:23:58 +0900</pubDate>
+      <title>About</title>
+      <link>https://yutaro.github.io/reading-list/post/about/</link>
+      <pubDate>Sun, 29 Oct 2017 17:46:27 +0900</pubDate>
       
-      <guid>https://yutaro.github.io/reading-list/post/hello/</guid>
-      <description> omg yeah!  aaa aaa aaa  package main import &amp;quot;fmt&amp;quot; func main(){ fmt.Println(&amp;quot;Hello world&amp;quot;) }  </description>
+      <guid>https://yutaro.github.io/reading-list/post/about/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

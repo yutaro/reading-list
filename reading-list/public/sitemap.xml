@@ -3,15 +3,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://yutaro.github.io/reading-list/post/wow/</loc>
-    <lastmod>2017-10-30T13:52:35+09:00</lastmod>
+    <loc>https://yutaro.github.io/reading-list/post/learncompiler/</loc>
+    <lastmod>2017-10-30T15:18:18+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://yutaro.github.io/reading-list/post/hello/</loc>
-    <lastmod>2017-10-30T12:23:58+09:00</lastmod>
+    <loc>https://yutaro.github.io/reading-list/post/about/</loc>
+    <lastmod>2017-11-02T17:46:27+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -23,21 +23,64 @@
   </url>
   
   <url>
+    <loc>https://yutaro.github.io/reading-list/tags/clang/</loc>
+    <lastmod>2017-10-30T15:18:18+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yutaro.github.io/reading-list/tags/compiler/</loc>
+    <lastmod>2017-10-30T15:18:18+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yutaro.github.io/reading-list/categories/compiler/</loc>
+    <lastmod>2017-10-30T15:18:18+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yutaro.github.io/reading-list/tags/memo/</loc>
+    <lastmod>2017-11-02T17:46:27+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yutaro.github.io/reading-list/categories/memo/</loc>
+    <lastmod>2017-11-02T17:46:27+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yutaro.github.io/reading-list/tags/pl/0/</loc>
+    <lastmod>2017-10-30T15:18:18+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://yutaro.github.io/reading-list/post/</loc>
-    <lastmod>2017-10-30T13:52:35+09:00</lastmod>
+    <lastmod>2017-10-30T15:18:18+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yutaro.github.io/reading-list/</loc>
-    <lastmod>2017-10-30T13:52:35+09:00</lastmod>
+    <lastmod>2017-10-30T15:18:18+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yutaro.github.io/reading-list/tags/</loc>
+    <lastmod>2017-10-30T15:18:18+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>

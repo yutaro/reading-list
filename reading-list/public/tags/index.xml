@@ -7,9 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>yutaro</copyright>
+    <lastBuildDate>Mon, 30 Oct 2017 15:18:18 +0900</lastBuildDate>
     
 	<atom:link href="https://yutaro.github.io/reading-list/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Clang</title>
+      <link>https://yutaro.github.io/reading-list/tags/clang/</link>
+      <pubDate>Mon, 30 Oct 2017 15:18:18 +0900</pubDate>
+      
+      <guid>https://yutaro.github.io/reading-list/tags/clang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compiler</title>
+      <link>https://yutaro.github.io/reading-list/tags/compiler/</link>
+      <pubDate>Mon, 30 Oct 2017 15:18:18 +0900</pubDate>
+      
+      <guid>https://yutaro.github.io/reading-list/tags/compiler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Memo</title>
+      <link>https://yutaro.github.io/reading-list/tags/memo/</link>
+      <pubDate>Sun, 29 Oct 2017 17:46:27 +0900</pubDate>
+      
+      <guid>https://yutaro.github.io/reading-list/tags/memo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pl/0</title>
+      <link>https://yutaro.github.io/reading-list/tags/pl/0/</link>
+      <pubDate>Mon, 30 Oct 2017 15:18:18 +0900</pubDate>
+      
+      <guid>https://yutaro.github.io/reading-list/tags/pl/0/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
