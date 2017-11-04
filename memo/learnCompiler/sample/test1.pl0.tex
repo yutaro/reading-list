@@ -1,0 +1,27 @@
+\documentstyle[12pt]{article
+}\begin{document}
+\fboxsep=0pt
+\def\insert#1{$\fbox{#1}$}
+\def\delete#1{$\fboxrule=.5mm\fbox{#1}$}
+\rm
+\ \par
+{\bf function}\ {\it fact}$(${\sl n}$)$\ \par
+{\bf begin}\ \par
+\ \ {\bf if}\ n\ $=$\ 1\ {\bf then}\ {\bf return}\ 1\ \insert{$;$}\ \par
+\ \ {\bf return}\ n$*${\it fact}$($n$-$1$)$$^{unmatched par}$$;$\ \par
+{\bf end}$;$\ \par
+\ \par
+{\bf var}\ {\it x}\delete{$;$}\ \insert{$($}$;$\ \insert{$)$}\ \par
+{\bf begin}\ \par
+\ \ \(\stackrel{\mbox{\scriptsize var/par}}{\mbox{\it x}}}\)\ $:=$\ 1$;$\ \par
+\ \par
+\ \ {\bf while}\ {\it x}\ \insert{$($}\ \insert{$)$}$<$10\ {\bf do}\ \par
+\ \ \ \ {\bf begin}\ \par
+\ \ \ \ \ \ {\bf write}\ {\it x}\ \insert{$($}\ \insert{$)$}$;$\ \par
+\ \ \ \ \ \ {\bf write}\ {\it fact}$(${\it x}\ \insert{$($}\ \insert{$)$}$)$$^{unmatched par}$$;$\ \par
+\ \ \ \ \ \ {\bf writeln}$;$\ \par
+\ \ \ \ \ \ \(\stackrel{\mbox{\scriptsize var/par}}{\mbox{\it x}}}\)\ $:=$\ {\it x}\ \insert{$($}\ \insert{$)$}$+$1$;$\ \par
+\ \ \ \ {\bf end}$;$\ \par
+{\bf end}\delete{$.$}\ \insert{$;$}$.$$^{end of file
+}$fatal errors
+\end{document}
